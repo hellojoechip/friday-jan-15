@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
-title: Mediocre coffee with a conscience
-image: /img/chemex.jpg
+title: Mediocre coffee with a conscience. Well. Maybe!
+image: /img/blog-index.jpg
 heading: Great coffee with a conscience (wahahahaha)
 subheading: Support sustainable farming while enjoying a cup!
 mainpitch:
